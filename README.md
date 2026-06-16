@@ -48,6 +48,30 @@ Features include:
 - Loyal Customers
 - Lost Customers
 
+## Visualizations
+
+### 1. Elbow Method
+![Elbow Method](Elbow%20Method.png)
+The Elbow Method was used to determine the optimal number of clusters for K-Means clustering.
+
+---
+
+### 2. Customer Distribution by Segment
+![Customer Distribution](Customer%20Distribution%20by%20Segment.png)
+This chart shows the number of customers in each identified segment.
+
+---
+
+### 3. Customer Segments based on Frequency and Monetary Value
+![Customer Segments](Customer%20Segments%20based%20on%20Frequency%20and%20Monetary%20Value.png)
+The scatter plot visualizes customer groups based on purchase frequency and spending behavior.
+
+---
+
+### 4. Monetary Value by Segment
+![Monetary Value](Monetary%20Value%20by%20Segment.png)
+This visualization compares the spending patterns of customers across segments.
+
 ## Key Insights
 
 - Champions are the most valuable customers.
