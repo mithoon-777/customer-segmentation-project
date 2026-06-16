@@ -51,25 +51,25 @@ Features include:
 ## Visualizations
 
 ### 1. Elbow Method
-![Elbow Method](Elbow_Method.png)
+![Elbow Method](images/Elbow_Method.png)
 The Elbow Method was used to determine the optimal number of clusters for K-Means clustering.
 
 ---
 
 ### 2. Customer Distribution by Segment
-![Customer Distribution](Customer_Distribution_by_Segment.png)
+![Customer Distribution](images/Customer_Distribution_by_Segment.png)
 This chart shows the number of customers in each identified segment.
 
 ---
 
 ### 3. Customer Segments based on Frequency and Monetary Value
-![Customer Segments](Customer_Segments_based_on_Frequency_and_Monetary_Value.png)
+![Customer Segments](images/Customer_Segments_based_on_Frequency_and_Monetary_Value.png)
 The scatter plot visualizes customer groups based on purchase frequency and spending behavior.
 
 ---
 
 ### 4. Monetary Value by Segment
-![Monetary Value](Monetary_Value_by_Segment.png)
+![Monetary Value](images/Monetary_Value_by_Segment.png)
 This visualization compares the spending patterns of customers across segments.
 
 ## Key Insights
